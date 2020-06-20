@@ -1,0 +1,15 @@
+{
+  "port":{
+    "port": "9096"
+  },
+  "database":{
+    "host": "localhost",
+    "port": "5432",
+    "user": "postgres",
+    "pass": "root",
+    "name": "user_management"
+  },
+  "secret":{
+    "secret": "TokenVerifyLion"
+  }
+}
